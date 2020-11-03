@@ -1,12 +1,12 @@
 
-.kitty-1
+.kitty-1 {
   position: absolute;
   z-index: 1;
   top: 276px;
   left: 129px;
 }
 
-#kitty-2
+#kitty-2 {
   position: absolute;
   z-index: 2;
   top: 212px;
@@ -15,7 +15,7 @@
 
 /* Select the image inside the element with an id of basket (using its descendent relationship) */
 
-#basket.img
+#basket img {
   position: absolute;
   z-index: 5;
   top: 291px;
